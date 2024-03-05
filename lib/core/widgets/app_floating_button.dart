@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sempl/core/config/theme.dart';
-import 'package:sempl/features/questionnarie_page/presentation/ui/questionnarie_page.dart';
 
 /// bottom button
 class AppFloatingButtonWidget extends StatelessWidget {
